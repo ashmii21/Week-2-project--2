@@ -1,0 +1,7 @@
+Dataset contains 1200 rows and 14 columns.
+Mean and median were calculated for all numeric columns.
+Outliers were identified using the 1.5 × IQR rule.
+TotalPrice: 8 potential outlier(s) detected.
+Quantity: 0 potential outlier(s) detected.
+UnitPrice: 0 potential outlier(s) detected.
+Total missing cells: 309.
